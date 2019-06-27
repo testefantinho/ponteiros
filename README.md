@@ -18,3 +18,5 @@ compilando| COMPILADOR DOS ARQUIVOS EM C| :heavy_check_mark:
 armazenamento| TESTE DE ARMAZENAMENTO DE UM PONTEIRO|:heavy_check_mark:
 saida| TESTE DE SAIDA DE UM PONTEIRO EM C|:heavy_check_mark:
 dereferencia| TESTE DO OPERADOR DE DEREFERENCIA|:heavy_check_mark:
+falha| TESTE DE FALHA DE SEGMENTAÇÃO EM C|:heavy_check_mark:
+null | TESTE DE INICIALIZAÇÃO DE PONTEIROS EM C|:heavy_check_mark:

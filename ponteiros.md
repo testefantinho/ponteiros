@@ -34,8 +34,14 @@ int* b = &a;
 printf("%d",*b); //10
 ```
 
-exemplo completo:
+## Problemas
+
+* Se tentarmos de atribuir um valor a um Ponteiro, ele vai dar uma **falha de segmentação**
+* Se aparecer essa mensagem na tela, significa que é um problema nos Ponteiros
+* Por isso se deve toda vez criar um Ponteiro `NULL` de inicio para evitar esse tipo de problema
 
 ```c
-
+int a = 10;
+int* b; // Falha de segmentação
+int* c = NULL; //ponteiro vazio
 ```
